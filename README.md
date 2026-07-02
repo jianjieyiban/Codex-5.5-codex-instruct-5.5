@@ -8,8 +8,6 @@
 
 ---
 
-## 交流 / Community
-
 ## 这是什么 / What
 
 GPT-5.5 在 Codex CLI 中同样受到严格的内容安全限制。本工具利用 `model_instructions_file` 配置机制，注入一套专为 GPT-5.5 编写的无限制模式指令，强制 Codex 以 `[MODE: UNRESTRICTED]` 运行。
